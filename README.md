@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋 I'm Valerio D'Alessio, but you can call me Val()
 
-<!--
-**valdal14/valdal14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: valdal14](https://img.shields.io/twitter/follow/valdal14?label=Valerio%20D%27Alessio&style=social)](https://twitter.com/valdal14)
 
-Here are some ideas to get you started:
+# Career History
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm a Full-Stack Software Engineer and I worked at ** Oracle ** - ** PayPal ** & ** Hewlett-Packard **
+
+### My new job? Stay tuned, it will be announced on January 2021
+
+# A little bit more about me...
+
+```javascript
+struct Engineer {
+    let info: [String: [String]]
+}
+
+func val() -> Engineer {
+    let valerio: [String: [String]] = [
+        "languages": ["Javascript", "Python", "Swift", "HTML", "CSS"],
+        "frameworks": ["React", "React Native"],
+        "developerTools": ["Redux", "Node", "Xcode"]
+    ]
+
+    let val = Engineer(info: valerio)
+    return val
+}
+```
