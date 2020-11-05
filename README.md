@@ -1,4 +1,4 @@
-# Hello World! 👋
+# Hello World!  👋🏻
 
 I'm Valerio D'Alessio, but you can call me Val()\
 \
