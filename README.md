@@ -4,7 +4,7 @@
 
 # Career History
 
-I'm a Full-Stack Software Engineer and I worked at ** Oracle ** - ** PayPal ** & ** Hewlett-Packard **
+I'm a Full-Stack Software Engineer and I worked at **Oracle** - **PayPal** & **Hewlett-Packard**
 My new job? Stay tuned, it will be announced on January 2021
 
 # A little bit more about me...
