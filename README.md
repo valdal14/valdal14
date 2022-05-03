@@ -6,8 +6,8 @@ I'm Valerio D'Alessio, but you can call me Val()\
 
 # Career History
 
-I work as Senior Java & Mulesoft Dataweave Software Engineer at **C&A**. Previously I worked as Full-Stack Software Engineer at **Oracle** - **PayPal** & **Hewlett-Packard**\
-\
+I work as Senior Java & Mulesoft Dataweave Software Engineer at **C&A**. 
+\Previously I worked as Full-Stack Software Engineer at **Oracle** - **PayPal** & **Hewlett-Packard**\
 
 # A little bit more about me...
 
@@ -18,9 +18,8 @@ struct Engineer {
 
 func val() -> Engineer {
     let valerio: [String: [String]] = [
-        "languages": ["Javascript", "Python", "Swift", "HTML", "CSS"],
-        "frameworks": ["React", "React Native"],
-        "developerTools": ["Redux", "Node", "Xcode"]
+        "languages": ["Java", "Dataweave", "Javascript", "Python", "Swift", "HTML", "CSS"],
+        "frameworks": ["React", "React Native"]
     ]
 
     let val = Engineer(info: valerio)
