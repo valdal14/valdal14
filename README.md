@@ -6,9 +6,8 @@ I'm Valerio D'Alessio, but you can call me Val()\
 
 # Career History
 
-I'm a Full-Stack Software Engineer and I worked at **Oracle** - **PayPal** & **Hewlett-Packard**\
+I work as Senior Java & Mulesoft Dataweave Software Engineer at **C&A**. Previously I worked as Full-Stack Software Engineer at **Oracle** - **PayPal** & **Hewlett-Packard**\
 \
-My new job? Stay tuned, it will be announced on January 2021
 
 # A little bit more about me...
 
