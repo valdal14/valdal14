@@ -17,7 +17,7 @@ struct Engineer {
 
 func val() -> Engineer {
     let valerio: [String: [String]] = [
-        "languages": ["Swift", "Java", "Dataweave", "Javascript", "HTML", "CSS"],
+        "languages": ["Swift", "Java", "Python", "Javascript", "HTML", "CSS"],
         "frameworks": ["UIKit", "SwiftUI", "React", "React Native"]
     ]
 
