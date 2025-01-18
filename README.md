@@ -34,7 +34,7 @@ func val() -> Engineer {
 }
 ```
 
-# Latest Personal Project - Download from AppStore
+# Latest Personal Projects - Download from AppStore
 
 [![Watch the video](https://github.com/valdal14/valdal14/blob/main/emerald-banner.png?raw=true)](https://apps.apple.com/app/id6503892248)
 
