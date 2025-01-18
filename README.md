@@ -28,7 +28,10 @@ func val() -> Engineer {
 
 # Latest Personal Project
 
+[![Watch the video](https://github.com/valdal14/valdal14/blob/main/emerald-banner.png?raw=true)](https://apps.apple.com/app/id6503892248)
 
-# Latest Personal Project
+[![Watch the video](https://github.com/valdal14/valdal14/blob/main/frostify-banner.png?raw=true)](https://apps.apple.com/app/id6739462653)
+
+# Cauldron Demo
 
 [![Watch the video](https://github.com/valdal14/valdal14/blob/main/cauldron.png?raw=true)](https://www.youtube.com/watch?v=gmRWrJOLkUI)
