@@ -17,7 +17,7 @@ struct Engineer {
 
 func val() -> Engineer {
     let valerio: [String: [String]] = [
-        "languages": ["Swift", "Java", "Python", "Javascript", "HTML", "CSS"],
+        "languages": ["Swift", "C", "Java", "Python"],
         "frameworks": ["UIKit", "SwiftUI", "React", "React Native"]
     ]
 
@@ -25,6 +25,10 @@ func val() -> Engineer {
     return val
 }
 ```
+
+# Latest Personal Project
+
+
 # Latest Personal Project
 
 [![Watch the video](https://github.com/valdal14/valdal14/blob/main/cauldron.png?raw=true)](https://www.youtube.com/watch?v=gmRWrJOLkUI)
