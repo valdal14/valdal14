@@ -3,6 +3,7 @@
 I'm Valerio D'Alessio, but you can call me Val()\
 \
 [![Twitter: valdal14](https://img.shields.io/twitter/follow/valdal14?label=Valerio%20D%27Alessio&style=social)](https://twitter.com/valdal14)
+[![LinkedIn: valdal14](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdal14/)
 
 # Career History
 
@@ -35,3 +36,9 @@ func val() -> Engineer {
 # Cauldron Demo
 
 [![Watch the video](https://github.com/valdal14/valdal14/blob/main/cauldron.png?raw=true)](https://www.youtube.com/watch?v=gmRWrJOLkUI)
+
+
+https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black
+
+https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
+
