@@ -11,10 +11,10 @@ I'm Valerio D'Alessio, but you can call me Val()
 
 # Career History
 
-I work as iOS Software Engineer at **C&A**. \
+I work as iOS Software Engineer at **C&A**.
 
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)]
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 Former Engineer at **Oracle** - **PayPal** & **Hewlett-Packard**
 
