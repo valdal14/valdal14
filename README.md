@@ -1,4 +1,4 @@
-# Hello World!  👋🏻
+# Hello World! 👋🏻
 
 I'm Valerio D'Alessio, but you can call me Val()
 
@@ -11,39 +11,28 @@ I'm Valerio D'Alessio, but you can call me Val()
 
 # Career History
 
-I work as iOS Software Engineer at **C&A**. Former Engineer at **Oracle** - **PayPal** & **Hewlett-Packard**
+I work as a **Software & Data Engineer** at **C&A**. Former Engineer at **Oracle** - **PayPal** & **Hewlett-Packard**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 ## A little bit more about me...
 
-```javascript
-struct Engineer {
-    let info: [String: [String]]
-}
-
-func val() -> Engineer {
-    let valerio: [String: [String]] = [
-        "languages": ["Swift", "C", "Java", "Python"],
-        "frameworks": ["UIKit", "SwiftUI", "CoraData", "SwiftData"],
-        "databases": ["Oracle Database", "MySQL", "PostgreSQL", "SQLite"]
-    ]
-
-    let val = Engineer(info: valerio)
-    return val
-}
-```
+```python
+def val():
+    return {
+        "user": "Valerio",
+        "role": "Software & Data Engineer",
+        "languages": ["Python", "SQL", "Swift", "Java"],
+        "data_stack": ["Pandas", "Apache Spark", "Airflow", "dbt"],
+        "app_dev": ["UIKit", "SwiftUI", "CoreData"],
+        "databases": ["Oracle Database", "PostgreSQL", "MySQL"]
+    }
 
 # Latest Personal Projects - Download from AppStore
-
-[![Emerald](https://github.com/valdal14/valdal14/blob/main/emerald-banner.png?raw=true)](https://apps.apple.com/app/id6503892248)
-
-[![Miindy](https://github.com/valdal14/valdal14/blob/main/miindy-banner.png?raw=true)](https://apps.apple.com/app/id6736936134)
 
 [![Frostify](https://github.com/valdal14/valdal14/blob/main/frostify-banner.png?raw=true)](https://apps.apple.com/app/id6739462653)
 
 # Cauldron Demo
 
 [![Watch the video](https://github.com/valdal14/valdal14/blob/main/cauldron.png?raw=true)](https://www.youtube.com/watch?v=gmRWrJOLkUI)
-
