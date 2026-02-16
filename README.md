@@ -28,6 +28,7 @@ def val():
         "app_dev": ["UIKit", "SwiftUI", "CoreData"],
         "databases": ["Oracle Database", "PostgreSQL", "MySQL"]
     }
+```
 
 # Latest Personal Projects - Download from AppStore
 
